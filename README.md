@@ -1,5 +1,6 @@
 # student-performance-prediction-ml
 End-to-end Machine Learning project that predicts student academic performance using attendance, study hours, grades and background features.
+this model is my first project with 53% accuracy 
 # Student Performance Prediction (Machine Learning)
 
 This project predicts whether a student will PASS or FAIL based on:
